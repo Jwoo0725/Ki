@@ -829,7 +829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Message" id="RlI7K4TZIga8CbYVlWq-">
-    <mxGraphModel dx="1381" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1479,6 +1479,9 @@
         </mxCell>
         <mxCell id="eCLXNsyYo3To3St9-C8a-12" value="&lt;font color=&quot;#ff3333&quot;&gt;버퍼 맨 앞에 WRITE command code 저장&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="2315" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUlChEvzXhLIi457lOLR-1" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;Message&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="-448" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
