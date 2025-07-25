@@ -2231,8 +2231,8 @@
         <mxCell id="8MQ--WlmYCW8tLp_cQzD-3" value="&lt;b&gt;MCU &lt;/b&gt;&amp;lt;-- HAL interface--&amp;gt; &lt;b&gt;NFC &lt;/b&gt;&amp;lt;-- RFAL interface--&amp;gt; &lt;b&gt;Power &lt;/b&gt;state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="678.42" y="1890" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8MQ--WlmYCW8tLp_cQzD-4" value="load power setting은 rfal라이브러리에서 찾아보기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1910" width="280" height="30" as="geometry" />
+        <mxCell id="8MQ--WlmYCW8tLp_cQzD-4" value="load power setting은 rfal ?&lt;div&gt;rfal로 signal/state 찾ㅇ보기&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1905" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
