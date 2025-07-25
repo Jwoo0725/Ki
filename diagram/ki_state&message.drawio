@@ -2228,6 +2228,12 @@
         <mxCell id="8MQ--WlmYCW8tLp_cQzD-1" value="NFC communication carrier 전송을 위한 저전력 전압 인가" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="29.86" y="1654" width="320" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8MQ--WlmYCW8tLp_cQzD-3" value="&lt;b&gt;MCU &lt;/b&gt;&amp;lt;-- HAL interface--&amp;gt; &lt;b&gt;NFC &lt;/b&gt;&amp;lt;-- RFAL interface--&amp;gt; &lt;b&gt;Power &lt;/b&gt;state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="678.42" y="1890" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8MQ--WlmYCW8tLp_cQzD-4" value="load power setting은 rfal라이브러리에서 찾아보기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1910" width="280" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
