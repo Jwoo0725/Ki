@@ -2155,7 +2155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="POW" id="mzsmyiBPgbqIV63pe0Lo">
-    <mxGraphModel dx="1950" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2333,8 +2333,8 @@
         <mxCell id="kV96KxF-Jw4hKvhviZh6-4" value="main.c에서 참조하고 있는 라이브러리" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="775" y="7700" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kV96KxF-Jw4hKvhviZh6-5" value="분석할 내용&lt;div&gt;RFAL 계층&amp;nbsp;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;rfal_nfc.c&lt;/b&gt; : rfalNfcWorker(), rfalNfcDataExchange() 통신 흐름의 중간관리&lt;/div&gt;&lt;div&gt;- &lt;b&gt;rfal_isoDep.c&lt;/b&gt; : rfalIsoDepTransceiveBlockingTxRx() 등, APDU/PDU 송수신 관련&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ST25R3916&amp;nbsp;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;st25r3916_com.c&lt;/b&gt; : st25r3916WriteRegister(), ExecuteCommand() 등 레지스터 접근&lt;/div&gt;&lt;div&gt;- &lt;b&gt;st25r3916_intterupt.&lt;/b&gt;c : Load 변화 감지 이벤트 인터럽트 처리&lt;/div&gt;&lt;div&gt;- &lt;b&gt;st25r3916.c&lt;/b&gt;&amp;nbsp;: st25r3916MeasureAmplitude(), AdjustRegulators() 등 전력측정/조절 함수&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ki Application Layer(PTx)&lt;/b&gt; : CTRL/cc, CTRL/ctp 메시지 파싱, power level 결정해야함&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=2;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2800" width="490" height="170" as="geometry" />
+        <mxCell id="kV96KxF-Jw4hKvhviZh6-5" value="분석할 내용&lt;div&gt;RFAL 계층&amp;nbsp;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;rfal_nfc.c&lt;/b&gt; : rfalNfcWorker(), rfalNfcDataExchange() 통신 흐름의 중간관리&lt;/div&gt;&lt;div&gt;- &lt;b&gt;rfal_rfst25r3916.c&lt;/b&gt; : rfalIsoDepTransceiveBlockingTxRx() 등, APDU/PDU 송수신, rfal field 제어&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ST25R3916&amp;nbsp;&lt;/div&gt;&lt;div&gt;- &lt;b&gt;st25r3916_com.c&lt;/b&gt; : st25r3916WriteRegister(), ExecuteCommand() 등 레지스터 접근&lt;/div&gt;&lt;div&gt;- &lt;b&gt;st25r3916_intterupt.&lt;/b&gt;c : Load 변화 감지 이벤트 인터럽트 처리&lt;/div&gt;&lt;div&gt;- &lt;b&gt;st25r3916.c&lt;/b&gt;&amp;nbsp;: st25r3916MeasureAmplitude(), AdjustRegulators() 등 전력측정/조절 함수&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ki Application Layer(PTx)&lt;/b&gt; : CTRL/cc, CTRL/ctp 메시지 파싱, power level 결정해야함&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=2;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="545" y="2810" width="530" height="170" as="geometry" />
         </mxCell>
         <mxCell id="kV96KxF-Jw4hKvhviZh6-11" value="" style="endArrow=none;html=1;rounded=0;fontColor=light-dark(#FF3333,#EDEDED);strokeColor=#FF3333;startArrow=classic;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2357,8 +2357,8 @@
         <mxCell id="kV96KxF-Jw4hKvhviZh6-18" value="통신흐름..&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="143.29" y="3330" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kV96KxF-Jw4hKvhviZh6-20" value="kiPtxWorker(); --호출--&amp;gt; rfalNfcWorker() --호출--&amp;gt; rfalWorker();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="82.97999999999999" y="3370" width="350" height="30" as="geometry" />
+        <mxCell id="kV96KxF-Jw4hKvhviZh6-20" value="kiPtxWorker(); --호출--&amp;gt; rfalNfcWorker(); --호출--&amp;gt; rfalWorker();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="32.49999999999999" y="3370" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
