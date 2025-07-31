@@ -1496,7 +1496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mgs Types usages" id="Vc2UZliH-qQl0DheONIo">
-    <mxGraphModel dx="1381" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1536" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1890,7 +1890,7 @@
         <mxCell id="7C68rv1Pbsi8wUUX1vzN-1" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;Message Types usages&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="-448" width="550" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="G6aT2DuA-Uhsk4vTkf3n-1" value="connected 상태일 때 PRx에 전력을 공급하는 기능.&amp;nbsp;&lt;div&gt;user interface를 acticating 하기 위해 power를 harvesting 하기 위함&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G6aT2DuA-Uhsk4vTkf3n-1" value="connected 상태일 때 PRx에 전력을 공급하는 기능.&amp;nbsp;&lt;div&gt;user interface를 acticating 하기 위해 power를 harvesting 하기 위함&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="409.02" y="480" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
