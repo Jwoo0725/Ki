@@ -2492,8 +2492,8 @@
             <mxPoint x="545" y="4780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rwUO0z_Lu8KBwkcumoKK-10" value="74LVC1G3157 : 2:! 멀티플렉서/디멀티플렉서" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="558.16" y="4750" width="250" height="30" as="geometry" />
+        <mxCell id="rwUO0z_Lu8KBwkcumoKK-10" value="74LVC1G3157 : 2:! 멀티플렉서/디멀티플렉서&lt;div&gt;신호 라우팅 및 라인 선택, 스위칭&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="566.51" y="4770" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SiJDGU059lCVuIigLRRq-1" value="--&amp;gt; NFC_UART_TX/RX(UART5), FOD_USART_TX/RX(USART1) 주고받는 신호 및 코드 구현 X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="48.339999999999975" y="6340" width="520" height="30" as="geometry" />
