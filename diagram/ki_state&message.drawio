@@ -1496,7 +1496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mgs Types usages" id="fqJCWH-MELaO_Ocmn_Jf">
-    <mxGraphModel dx="1536" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1738,8 +1738,8 @@
         <mxCell id="8OIFc8Or4WUgdcUBgSb0-38" value="PRx는 RESP/ok를 수신 후 50ms 내에 load config 변경을 완료해야함&lt;div&gt;변경 중일 때는 RESP/bsy를 전송&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="599.04" y="1823" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8OIFc8Or4WUgdcUBgSb0-39" value="lst로 load config 변경 요청, 변경 완료 후 ctp 전송" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="122.04" y="1743" width="270" height="30" as="geometry" />
+        <mxCell id="8OIFc8Or4WUgdcUBgSb0-39" value="lst로 load config 변경 요청, 변경 완료 후 PRx가 ctp 전송" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="102.04" y="1743" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8OIFc8Or4WUgdcUBgSb0-40" value="3.6.7&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Transition to the standby state&amp;nbsp;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;standby state로 전환&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Message : NEXT/stb&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="29.039999999999996" y="2210" width="480" height="60" as="geometry" />
