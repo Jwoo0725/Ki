@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Schem" id="tn2KJzUb4R3Vwq7MZ1EQ">
-    <mxGraphModel dx="1707" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,12 +17,12 @@
           <mxGeometry x="390" y="1733" width="242" height="132" as="geometry" />
         </mxCell>
         <mxCell id="rowmpuuYdpRt1zif0l6q-6" value="&lt;b&gt;NFC_Reset&lt;/b&gt;(NRST) :&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NFC controller를 하드웨어 적으로 리셋&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;NFC_Wake_Up &lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NFC칩을 절전모드에서 깨우는 동작&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NFC_Ready &lt;/b&gt;:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;NFC 칩이 초기화 및 동작 준비가 끝나면 MCU에 알려주는 출력핀&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;COM_Slot &lt;/b&gt;: WPC Qi 프로토콜에서 통신 슬롯 타이밍을 표시&lt;/div&gt;&lt;div&gt;- NFC 데이터 교환이 가능한 시점을 알려줌&lt;/div&gt;&lt;div&gt;- Guard Time, Frame Delay Time 관리에도 사용&lt;/div&gt;&lt;div&gt;&lt;b&gt;FOD_SLot &lt;/b&gt;: FOD 타이밍 제어&lt;/div&gt;&lt;div&gt;&lt;b&gt;IGBT_drive&lt;/b&gt; : 인버터의 IGBT를 구동하여 전력 송신 코일에 필요한 고전압/전류를 스위칭&lt;/div&gt;&lt;div&gt;- MCU가 이 핀을 통해 전력 ON/OFF&lt;/div&gt;&lt;div&gt;&lt;b&gt;NFC_Uart_Rx/Tx&lt;/b&gt; : NFC 데이터를 송수신하는 채널, UART 기반&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingRight=-8;" parent="1" vertex="1">
-          <mxGeometry x="632" y="1725" width="450" height="160" as="geometry" />
+          <mxGeometry x="640" y="1740" width="450" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cIxZ_dbqGc8L1sKDT4GC-1" value="IGBT(Insulated Gate Bipolar Transistor) : 빠른 스위칭으로 고전압/전류를 효율적으로 제어하는 전력반도체&lt;div&gt;IGBT driver회로 : 게이트의 정전용량이 크기 때문에 빠르게 전압을 올리고 내릴 수 있는 회로&lt;/div&gt;&lt;div&gt;MCU -&amp;gt; IGBT driver 회로 -&amp;gt; IGBT&lt;/div&gt;&lt;div&gt;MCU/FPGA IGBT driver pin : 드라이버 칩의 입력신호에 연결되어 스위칭 타이밍을 전달&lt;/div&gt;&lt;div&gt;IGBT driver : 입력신호를 받아 코일 전류를 형성(half-Bridge에 있는 IGBT를 구동)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cIxZ_dbqGc8L1sKDT4GC-1" value="IGBT(Insulated Gate Bipolar Transistor) : 빠른 스위칭으로 고전압/전류를 효율적으로 제어하는 전력반도체&lt;div&gt;IGBT driver회로 : 게이트의 정전용량이 크기 때문에 빠르게 전압을 올리고 내릴 수 있는 회로&lt;/div&gt;&lt;div&gt;MCU -&amp;gt; IGBT driver 회로 -&amp;gt; IGBT&lt;/div&gt;&lt;div&gt;MCU/FPGA IGBT driver pin : 드라이버 칩의 입력신호에 연결되어 스위칭 타이밍을 전달&lt;/div&gt;&lt;div&gt;IGBT driver : 입력신호를 받아 코일 전류를 형성(half-Bridge에 있는 IGBT를 구동)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="1875" width="560" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cIxZ_dbqGc8L1sKDT4GC-2" value="Interface A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="cIxZ_dbqGc8L1sKDT4GC-2" value="Interface A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="20" y="1680" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
