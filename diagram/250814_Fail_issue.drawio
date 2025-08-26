@@ -592,8 +592,8 @@
             <mxPoint x="166.04999999999995" y="4850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HbISz4hahjMwPxC7x9OE-16" value="--&amp;gt; IDEA : delay를 실제보다 게 설정해서 ZC예상시간을 실제 동작보다 빠르게 설정&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;--&amp;gt; 실제 HW에서 ZC가 발생하는 시점보다 빠르게 동작하도록 함&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="31.569999999999972" y="5190" width="470" height="40" as="geometry" />
+        <mxCell id="HbISz4hahjMwPxC7x9OE-16" value="--&amp;gt; IDEA : delay를 실제보다 길게 설정해서 ZC예상시간을 실제 동작보다 빠르게 설정&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;--&amp;gt; 실제 HW에서 ZC가 발생하는 시점보다 빠르게 동작하도록 함&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="31.569999999999972" y="5190" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HbISz4hahjMwPxC7x9OE-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
