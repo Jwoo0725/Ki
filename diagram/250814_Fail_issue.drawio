@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Issue" id="KeQ36jB7Rq5PJw9tUmmF">
-    <mxGraphModel dx="735" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -759,15 +759,6 @@
         <mxCell id="HbISz4hahjMwPxC7x9OE-55" value="delay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="35.97999999999999" y="5435" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HbISz4hahjMwPxC7x9OE-56" value="" style="endArrow=none;html=1;rounded=0;fontColor=#0000FF;strokeColor=#0000FF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40.01999999999998" y="5510" as="sourcePoint" />
-            <mxPoint x="40.01999999999998" y="5490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HbISz4hahjMwPxC7x9OE-58" value="보정(HAL_TIM_IC_CaptureCallback)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;spacing=-6;" vertex="1" parent="1">
-          <mxGeometry x="40.019999999999996" y="5490" width="170" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="HbISz4hahjMwPxC7x9OE-59" value="" style="endArrow=none;html=1;rounded=0;fontColor=#0000FF;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="278.71999999999997" y="5510" as="sourcePoint" />
@@ -785,9 +776,6 @@
             <mxPoint x="760.02" y="5510" as="sourcePoint" />
             <mxPoint x="760.02" y="5490" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HbISz4hahjMwPxC7x9OE-62" value="Tslot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="5513" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HbISz4hahjMwPxC7x9OE-63" value="Tslot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263.03999999999996" y="5513" width="30" height="20" as="geometry" />
