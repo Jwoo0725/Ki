@@ -971,6 +971,9 @@
         <mxCell id="vLMqQ7NBebzY_aeJ2D98-3" value="&lt;div style=&quot;font-size: 15px; font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2. inverter에서 Command 무시하고 고정값으로&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="1950" width="320" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="vLMqQ7NBebzY_aeJ2D98-5" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;3. command가 불가피하면 MAX값을 변경&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="2300" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
