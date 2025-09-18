@@ -109,6 +109,9 @@
         <mxCell id="JNQT5e8aB8y3lf0q37bL-32" value="seINVOUT --&amp;gt; RAMP UP/DOWN동안 Set(1)되어 있음" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="1098.45" width="300" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JNQT5e8aB8y3lf0q37bL-33" value="&lt;div&gt;수정한 코드&lt;/div&gt;1. GPIO4 기존 코드 주석처리&lt;div&gt;2. GPIO4 Toggle코드 ZC_IRQHandler() 함수에 추가&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;확인할 signal&lt;/div&gt;&lt;div&gt;1. COM_Slot&lt;/div&gt;&lt;div&gt;2. INVOUT_Debug&lt;/div&gt;&lt;div&gt;3. GPIO4(ZC에 따라 toggle)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1320" width="290" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
