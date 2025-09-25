@@ -276,10 +276,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P1rJuxc6kXSamteuRqSq-68" value="Ticks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="15.12" y="2758" width="50" height="30" as="geometry" />
+          <mxGeometry x="37.5" y="2770" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1rJuxc6kXSamteuRqSq-69" value="Time(ms)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="2770" width="70" height="30" as="geometry" />
+          <mxGeometry x="436" y="2770" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1rJuxc6kXSamteuRqSq-70" value="ramp-up-delay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450.75" y="2912" width="100" height="30" as="geometry" />
@@ -350,7 +350,7 @@
         </mxCell>
         <mxCell id="P1rJuxc6kXSamteuRqSq-82" value="0.55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P1rJuxc6kXSamteuRqSq-81">
           <mxGeometry x="-0.0567" y="1" relative="1" as="geometry">
-            <mxPoint x="2" y="13" as="offset" />
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1rJuxc6kXSamteuRqSq-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
