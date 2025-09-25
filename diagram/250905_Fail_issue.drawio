@@ -310,11 +310,11 @@
         <mxCell id="XVY7xy4jXO9hAJZXJpQF-12" value="discovery 단계 시작" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="495.22" y="970" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q1iDPj31QuDsgEPHgenr-1" value="1. state가 IDLE인지&lt;div&gt;2. 어디서 state가 설정되는지&lt;br&gt;&lt;div&gt;3. CarrierON이 1인지?&lt;/div&gt;&lt;div&gt;4. CarrierOn 값이 어디서 설정되는지&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="q1iDPj31QuDsgEPHgenr-1" value="1. state가 IDLE인지&lt;div&gt;2. 어디서 state가 설정되는지&lt;br&gt;&lt;div&gt;3. CarrierON이 1인지?&lt;/div&gt;&lt;div&gt;4. CarrierOn 값이 어디서 설정되는지&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="455.22" y="1070" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="I12_kaYuVLkYaecb2PZg-1" value="CarrierOn &amp;lt;- inverterStatus &amp;lt;-&amp;nbsp;InverterHandleIncommingMessages()에서 설정 , carrierON 설정하는 부분이 따로 없음 ...??&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="38.72" y="1840" width="660" height="40" as="geometry" />
+        <mxCell id="I12_kaYuVLkYaecb2PZg-1" value="CarrierOn &amp;lt;- inverterStatus &amp;lt;-&amp;nbsp;InverterHandleIncommingMessages()에서 설정 , carrierON 설정하는 부분이 따로 없음 ...??" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1820" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
