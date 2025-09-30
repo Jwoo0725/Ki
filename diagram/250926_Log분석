@@ -10,8 +10,8 @@
         <mxCell id="QhM3MXA_kkFfkMhiyu2x-2" value="NFC2 log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="98" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QhM3MXA_kkFfkMhiyu2x-3" value="&lt;div style=&quot;&quot;&gt;발생한 에러 1개&lt;/div&gt;&lt;div&gt;&amp;nbsp;Go on ERROR 4: We expected a LST during the transition from connected to power&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(if this happens during a CT1 -&amp;gt; look at the SRL command)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="133" width="480" height="60" as="geometry" />
+        <mxCell id="QhM3MXA_kkFfkMhiyu2x-3" value="&lt;div style=&quot;&quot;&gt;발생한 에러 1개&lt;/div&gt;&lt;div&gt;&amp;nbsp;Go on ERROR 4: We expected a LST during the transition from connected to power&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(if this happens during a CT1 -&amp;gt; look at the SRL command)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;--&amp;gt; Retries가 5x read fail -&amp;gt; error 4, 제한 시간 내에 read command를 받지 못한 경우&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="128" width="480" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
