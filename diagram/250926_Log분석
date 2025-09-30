@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="2">
   <diagram name="NFC" id="pWCZzsGDS-DIHUoR-3B9">
-    <mxGraphModel dx="508" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QhM3MXA_kkFfkMhiyu2x-1" value="250926 Log Test" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="QhM3MXA_kkFfkMhiyu2x-1" value="250926 Log Test" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QhM3MXA_kkFfkMhiyu2x-2" value="NFC2 log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QhM3MXA_kkFfkMhiyu2x-2" value="NFC2 log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="98" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QhM3MXA_kkFfkMhiyu2x-3" value="&lt;div style=&quot;&quot;&gt;발생한 에러 1개&lt;/div&gt;&lt;div&gt;&amp;nbsp;Go on ERROR 4: We expected a LST during the transition from connected to power&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(if this happens during a CT1 -&amp;gt; look at the SRL command)&lt;/div&gt;&lt;div&gt;----&amp;gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="128" width="480" height="70" as="geometry" />
+        <mxCell id="QhM3MXA_kkFfkMhiyu2x-3" value="&lt;div style=&quot;&quot;&gt;발생한 에러 1개&lt;/div&gt;&lt;div&gt;&amp;nbsp;Go on ERROR 4: We expected a LST during the transition from connected to power&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(if this happens during a CT1 -&amp;gt; look at the SRL command)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="133" width="480" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
