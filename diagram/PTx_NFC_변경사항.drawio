@@ -404,7 +404,7 @@
           <mxGeometry x="26.58" y="9570" width="464.61" height="175.83" as="geometry" />
         </mxCell>
         <mxCell id="xLGxLAimGEFW0knhAk_R-116" value="ST25R3916인 경우 Capacitance Measurement가 disable하므로 RFAL_ERR_NOTSUPP를 반환" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="26.66" y="9538" width="520" height="30" as="geometry" />
+          <mxGeometry x="31.240000000000002" y="9540" width="520" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
