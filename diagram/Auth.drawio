@@ -422,9 +422,6 @@
             <mxPoint x="498.64" y="4290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s4ZPjY5eSg5N7r4L1WaQ-13" value="각 함수 수행" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="477.29" y="4780" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="s4ZPjY5eSg5N7r4L1WaQ-14" value="rxbuf에서 값을&amp;nbsp;&lt;div&gt;가져오는 함수 수행&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="4560" width="160" height="10" as="geometry" />
         </mxCell>
