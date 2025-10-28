@@ -631,7 +631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nKyTyNhYRjix2v7vH8kL" name="PRx">
-    <mxGraphModel dx="698" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -658,6 +658,24 @@
         </mxCell>
         <mxCell id="vm61GiD7MHqrDu5YMAcV-8" value="X_RQST AUTH" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="1245" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vm61GiD7MHqrDu5YMAcV-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1430" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vm61GiD7MHqrDu5YMAcV-10" value="ki_AuthApp.c" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="293.65" y="1425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vm61GiD7MHqrDu5YMAcV-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="293.65" y="1615" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vm61GiD7MHqrDu5YMAcV-12" value="ki_AuthDev.c" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vm61GiD7MHqrDu5YMAcV-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1576" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vm61GiD7MHqrDu5YMAcV-14" value="ki_app.c kiAppIni()에서 초기화됨" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1571" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
