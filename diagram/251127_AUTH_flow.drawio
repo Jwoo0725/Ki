@@ -11,17 +11,17 @@
           <mxGeometry height="40" width="230" x="40" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="46JVNFJqEmSZFeG9Bbkr-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;kiAuthDevInitialize&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="200" x="50" y="1270" as="geometry" />
+          <mxGeometry height="40" width="200" x="60" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="46JVNFJqEmSZFeG9Bbkr-4" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points" />
-            <mxPoint x="140" y="1295" as="sourcePoint" />
-            <mxPoint x="140" y="1335" as="targetPoint" />
+            <mxPoint x="150" y="1295" as="sourcePoint" />
+            <mxPoint x="150" y="1335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="46JVNFJqEmSZFeG9Bbkr-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="main.c" vertex="1">
-          <mxGeometry height="30" width="60" x="30" y="1250" as="geometry" />
+          <mxGeometry height="30" width="60" x="40" y="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
