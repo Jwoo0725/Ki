@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="페이지-1" id="7SejB-Dkshlz0NOR675Q">
-    <mxGraphModel dx="7246" dy="3682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3752" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -95,13 +95,13 @@
           <mxGeometry height="30" width="155" x="-873" y="95" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-111" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="35" width="160" x="2742.25" y="5455.49" as="geometry" />
+          <mxGeometry height="35" width="160" x="2743.25" y="4942.5" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-97" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="50" width="200" x="2401.25" y="4412.99" as="geometry" />
+          <mxGeometry height="50" width="200" x="2402.25" y="3900" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-96" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="59" width="83" x="2628.25" y="4323.99" as="geometry" />
+          <mxGeometry height="59" width="83" x="2629.25" y="3811" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-95" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="195" x="2057" y="2780" as="geometry" />
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="STATE_POWER" vertex="1">
-          <mxGeometry height="40" width="120" x="1370" y="4656.21" as="geometry" />
+          <mxGeometry height="40" width="120" x="1370" y="4140" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-48" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-44" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="xzqBVJa93XsYaddzQMrF-49" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -224,7 +224,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-52" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Red LED 밝기 + 20&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(단 최대밝기를 넘어 갈 순 없음)" vertex="1">
-          <mxGeometry height="60" width="195" x="2088.75" y="4172.99" as="geometry" />
+          <mxGeometry height="60" width="195" x="2089.75" y="3660" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-59" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-58" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -233,25 +233,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-56" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="SW_IN_HZ가 disalble 상태 일 경우" vertex="1">
-          <mxGeometry height="80" width="250" x="2061.25" y="4313.99" as="geometry" />
+          <mxGeometry height="80" width="250" x="2062.25" y="3801" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-58" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="AppState =&lt;br&gt;State_Start" vertex="1">
-          <mxGeometry height="60" width="120" x="2456.25" y="4323.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2457.25" y="3811" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-60" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" target="xzqBVJa93XsYaddzQMrF-61" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2576.25" y="4353.99" as="sourcePoint" />
-            <mxPoint x="2656.25" y="4353.99" as="targetPoint" />
+            <mxPoint x="2577.25" y="3841" as="sourcePoint" />
+            <mxPoint x="2657.25" y="3841" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-61" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Power 제거" vertex="1">
-          <mxGeometry height="60" width="83" x="2628.25" y="4322.99" as="geometry" />
+          <mxGeometry height="60" width="83" x="2629.25" y="3810" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-65" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-64" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2186.25" y="4633.99" />
-              <mxPoint x="1926.25" y="4633.99" />
+              <mxPoint x="2187.25" y="4121" />
+              <mxPoint x="1927.25" y="4121" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -261,99 +261,99 @@
         <mxCell id="xzqBVJa93XsYaddzQMrF-71" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xzqBVJa93XsYaddzQMrF-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2186.25" y="4633.99" />
-              <mxPoint x="2441.25" y="4633.99" />
+              <mxPoint x="2187.25" y="4121" />
+              <mxPoint x="2442.25" y="4121" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-101" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2731.25" y="4713.99" as="targetPoint" />
+            <mxPoint x="2732.25" y="4201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-62" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Power Mode" vertex="1">
-          <mxGeometry height="80" width="250" x="2061.25" y="4473.99" as="geometry" />
+          <mxGeometry height="80" width="250" x="2062.25" y="3961" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-74" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-73" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-64" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="LED1 OFF&lt;br&gt;Motor_Voltage = 1000" vertex="1">
-          <mxGeometry height="60" width="120" x="1866.25" y="4713.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="1867.25" y="4201" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-66" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Mode_Bread" vertex="1">
-          <mxGeometry height="30" width="85" x="1926.25" y="4663.99" as="geometry" />
+          <mxGeometry height="30" width="85" x="1927.25" y="4151" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-77" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-76" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-67" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="LED2 OFF&lt;br&gt;Motor_Voltage ± 10" vertex="1">
-          <mxGeometry height="60" width="120" x="2126.25" y="4713.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2127.25" y="4201" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-69" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Mode_Cream" vertex="1">
-          <mxGeometry height="30" width="85" x="2186.25" y="4663.99" as="geometry" />
+          <mxGeometry height="30" width="85" x="2187.25" y="4151" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-79" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-78" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-70" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="LED3 OFF" vertex="1">
-          <mxGeometry height="60" width="120" x="2381.25" y="4713.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2382.25" y="4201" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-72" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Mode_Ice" vertex="1">
-          <mxGeometry height="30" width="85" x="2446.25" y="4663.99" as="geometry" />
+          <mxGeometry height="30" width="85" x="2447.25" y="4151" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-85" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1926.25" y="4953.99" />
-              <mxPoint x="2186.25" y="4953.99" />
+              <mxPoint x="1927.25" y="4441" />
+              <mxPoint x="2187.25" y="4441" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-73" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Motor_Voltage 변화 없이&lt;br&gt;5초 + @ 동작" vertex="1">
-          <mxGeometry height="60" width="150" x="1851.25" y="4853.99" as="geometry" />
+          <mxGeometry height="60" width="150" x="1852.25" y="4341" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-75" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Default Motor_Voltage = 700" vertex="1">
-          <mxGeometry height="30" width="165" x="2186.25" y="4583.99" as="geometry" />
+          <mxGeometry height="30" width="165" x="2187.25" y="4071" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-83" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xzqBVJa93XsYaddzQMrF-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-76" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="최대(2000)에 도달할 때까지 + 10&amp;nbsp;&lt;br&gt;최소 (700)에 도달할 때까지 - 10&lt;br&gt;최대 또는 최소 도달까지 10회 반복" vertex="1">
-          <mxGeometry height="60" width="247.5" x="2062.5" y="4853.99" as="geometry" />
+          <mxGeometry height="60" width="247.5" x="2063.5" y="4341" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-84" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xzqBVJa93XsYaddzQMrF-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2441.25" y="4953.99" />
-              <mxPoint x="2186.25" y="4953.99" />
-              <mxPoint x="2186.25" y="4993.99" />
+              <mxPoint x="2442.25" y="4441" />
+              <mxPoint x="2187.25" y="4441" />
+              <mxPoint x="2187.25" y="4481" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-78" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="150ms 간 Motor_Voltage = 2300&lt;br&gt;450ms 간 Motor_Voltage = 500&lt;br&gt;4회 반복&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="195" x="2343.75" y="4853.99" as="geometry" />
+          <mxGeometry height="60" width="195" x="2344.75" y="4341" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-87" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-86" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-89" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xzqBVJa93XsYaddzQMrF-90" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2186.25" y="5193.99" as="targetPoint" />
+            <mxPoint x="2187.25" y="4681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-81" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="동작을 마쳤을 경우,&lt;br&gt;버튼이 눌렸을 경우,&lt;br&gt;다이얼 OFF - &amp;gt; ON&amp;nbsp; 경우&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="340" x="2016.25" y="5023.99" as="geometry" />
+          <mxGeometry height="80" width="340" x="2017.25" y="4511" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-91" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xzqBVJa93XsYaddzQMrF-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2506.25" y="5153.99" />
-              <mxPoint x="2186.25" y="5153.99" />
+              <mxPoint x="2507.25" y="4641" />
+              <mxPoint x="2187.25" y="4641" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-86" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Mode_OFF" vertex="1">
-          <mxGeometry height="60" width="120" x="2446.25" y="5033.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2447.25" y="4521" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-99" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-98" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -362,36 +362,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-90" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="다이얼 ON&amp;nbsp; -&amp;gt; OFF 경우" vertex="1">
-          <mxGeometry height="80" width="340" x="2016.25" y="5193.99" as="geometry" />
+          <mxGeometry height="80" width="340" x="2017.25" y="4681" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-93" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
-          <mxGeometry height="30" width="60" x="2341.25" y="4323.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2342.25" y="3811" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-94" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
-          <mxGeometry height="30" width="60" x="2371.25" y="5033.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2372.25" y="4521" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-95" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="NO" vertex="1">
-          <mxGeometry height="30" width="60" x="2186.25" y="5113.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2187.25" y="4601" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-96" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="NO" vertex="1">
-          <mxGeometry height="30" width="60" x="2181.25" y="4420.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2182.25" y="3908" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-98" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="AppState =&lt;br&gt;State_Start" vertex="1">
-          <mxGeometry height="60" width="120" x="2446.25" y="5203.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2447.25" y="4691" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-100" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="970" width="20" x="1767" y="4191.21" as="geometry" />
+          <mxGeometry height="970" width="20" x="1767" y="3675" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-102" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="MODE_OFF or Default" vertex="1">
-          <mxGeometry height="30" width="162" x="2811.25" y="4668.99" as="geometry" />
+          <mxGeometry height="30" width="162" x="2812.25" y="4156" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-106" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2814.25" y="4853.99" as="targetPoint" />
+            <mxPoint x="2815.25" y="4341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-103" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="LED 1,2,3,4 OFF&lt;br&gt;Mooter_Voltage =&amp;nbsp;&lt;br&gt;(현재 다이얼 위치 - 다이얼 Stop)/2 + 700" vertex="1">
-          <mxGeometry height="60" width="210" x="2709.25" y="4713.99" as="geometry" />
+          <mxGeometry height="60" width="210" x="2710.25" y="4201" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-109" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-108" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -400,13 +400,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-107" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="다이얼 현재 위치 &amp;lt;&lt;br&gt;다이얼 Stop" vertex="1">
-          <mxGeometry height="80" width="250" x="2689.25" y="4853.99" as="geometry" />
+          <mxGeometry height="80" width="250" x="2690.25" y="4341" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-108" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="AppState =&lt;br&gt;State_Start" vertex="1">
-          <mxGeometry height="60" width="120" x="3049.25" y="4863.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="3050.25" y="4351" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-110" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
-          <mxGeometry height="30" width="60" x="2959.25" y="4863.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2960.25" y="4351" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-114" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xzqBVJa93XsYaddzQMrF-113" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -414,20 +414,20 @@
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-102" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2814.25" y="5372.99" />
-              <mxPoint x="2186.25" y="5372.99" />
-              <mxPoint x="2186.25" y="5432.99" />
+              <mxPoint x="2815.25" y="4860" />
+              <mxPoint x="2187.25" y="4860" />
+              <mxPoint x="2187.25" y="4920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-111" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="버튼이 눌린 경우" vertex="1">
-          <mxGeometry height="80" width="250" x="2689.25" y="5013.99" as="geometry" />
+          <mxGeometry height="80" width="250" x="2690.25" y="4501" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-113" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Buzzer = Button Press&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;PowerMode = buttonPressed&lt;br&gt;LED 1,2,3,4 ON" vertex="1">
-          <mxGeometry height="60" width="172" x="3049.25" y="5023.99" as="geometry" />
+          <mxGeometry height="60" width="172" x="3050.25" y="4511" as="geometry" />
         </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-115" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
-          <mxGeometry height="30" width="60" x="2959.25" y="5023.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2960.25" y="4511" as="geometry" />
         </mxCell>
         <mxCell id="Ta9UmopQOzT7Tf5MfhL1-1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-41" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xzqBVJa93XsYaddzQMrF-44" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -437,20 +437,20 @@
         </mxCell>
         <mxCell id="Ta9UmopQOzT7Tf5MfhL1-2" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-46" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2356" y="4556.71" as="sourcePoint" />
-            <mxPoint x="1768" y="4676.21" as="targetPoint" />
+            <mxPoint x="2356" y="4040.5" as="sourcePoint" />
+            <mxPoint x="1768" y="4160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ta9UmopQOzT7Tf5MfhL1-7" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ta9UmopQOzT7Tf5MfhL1-6" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430" y="5458.21" as="sourcePoint" />
+            <mxPoint x="1431" y="4945.22" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ta9UmopQOzT7Tf5MfhL1-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Power Mode가 아니거나&lt;br&gt;Power Mode에 진입 못할 경우" vertex="1">
-          <mxGeometry height="80" width="250" x="1305" y="5378.21" as="geometry" />
+          <mxGeometry height="80" width="250" x="1306" y="4865.22" as="geometry" />
         </mxCell>
         <mxCell id="Ta9UmopQOzT7Tf5MfhL1-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Appstate =&lt;br&gt;State_Start" vertex="1">
-          <mxGeometry height="60" width="120" x="1370" y="5577.21" as="geometry" />
+          <mxGeometry height="60" width="120" x="1371" y="5064.22" as="geometry" />
         </mxCell>
         <mxCell id="EbvtUNlB44dUi4_TW84F-11" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_XErxnu9NRveY6o1G7Qw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.975;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" target="EbvtUNlB44dUi4_TW84F-10" value="">
           <mxGeometry relative="1" as="geometry">
@@ -476,22 +476,22 @@
           <mxGeometry height="30" width="60" x="2285" y="977" as="geometry" />
         </mxCell>
         <mxCell id="EbvtUNlB44dUi4_TW84F-31" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="NO" vertex="1">
-          <mxGeometry height="30" width="60" x="2142.5" y="1090" as="geometry" />
+          <mxGeometry height="30" width="60" x="2140.5" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-93" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xzqBVJa93XsYaddzQMrF-62" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-94" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2311.25" y="4435.99" />
+              <mxPoint x="2312.25" y="3923" />
             </Array>
-            <mxPoint x="2221.25" y="4192.99" as="sourcePoint" />
-            <mxPoint x="2401.25" y="4432.99" as="targetPoint" />
+            <mxPoint x="2222.25" y="3680" as="sourcePoint" />
+            <mxPoint x="2402.25" y="3920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-94" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Power mode는 State Connected에서 설정" vertex="1">
-          <mxGeometry height="50" width="200" x="2401.25" y="4412.99" as="geometry" />
+          <mxGeometry height="50" width="200" x="2402.25" y="3900" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-98" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="NO" vertex="1">
-          <mxGeometry height="30" width="60" x="2811.25" y="4962.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2812.25" y="4450" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-105" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-104" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -500,34 +500,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-100" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="&amp;nbsp;전력 요청 및 전송이 없을 때&lt;br&gt;또는 전력 요청 했으나 Time Out 할 경우" vertex="1">
-          <mxGeometry height="80" width="340" x="2016.25" y="5432.99" as="geometry" />
+          <mxGeometry height="80" width="340" x="2017.25" y="4920" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-104" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="appState =&lt;br&gt;State_START" vertex="1">
-          <mxGeometry height="60" width="120" x="2447.25" y="5442.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2448.25" y="4930" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-106" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
-          <mxGeometry height="30" width="60" x="2371.25" y="5193.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2372.25" y="4681" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-108" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-109" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2532.25" y="5055.49" as="sourcePoint" />
-            <mxPoint x="2902.25" y="5475.49" as="targetPoint" />
+            <mxPoint x="2533.25" y="4542.5" as="sourcePoint" />
+            <mxPoint x="2903.25" y="4962.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-110" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-104" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="pt-Sz0ywJidHzhxRxOdD-109" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2567.25" y="5472.99" as="sourcePoint" />
-            <mxPoint x="2902.25" y="5472.99" as="targetPoint" />
+            <mxPoint x="2568.25" y="4960" as="sourcePoint" />
+            <mxPoint x="2903.25" y="4960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-109" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Error 메세지 출력 후 이동" vertex="1">
-          <mxGeometry height="37.5" width="163" x="2739.25" y="5452.99" as="geometry" />
+          <mxGeometry height="37.5" width="163" x="2740.25" y="4940" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-112" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
-          <mxGeometry height="30" width="60" x="2372.25" y="5432.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2373.25" y="4920" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-113" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="appState =&lt;br&gt;State_START" vertex="1">
-          <mxGeometry height="60" width="120" x="2126.25" y="5572.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="2127.25" y="5060" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-123" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-122" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -953,70 +953,70 @@
           <mxGeometry height="60" width="200" x="-2440" y="1022" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-272" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="1436" y="5507.21" as="geometry" />
+          <mxGeometry height="30" width="60" x="1437" y="4994.22" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-273" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
-          <mxGeometry height="30" width="60" x="2186.25" y="5532.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2187.25" y="5020" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-275" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
-          <mxGeometry height="30" width="60" x="2185.25" y="5313.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="2186.25" y="4801" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-277" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="499" width="20" x="3351.25" y="4613.99" as="geometry" />
+          <mxGeometry height="499" width="20" x="3352.25" y="4101" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-281" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-280" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-278" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="KiADC_DoneCB&lt;span style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="3491.25" y="4833.49" as="geometry" />
+          <mxGeometry height="60" width="170" x="3492.25" y="4320.5" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-279" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-277" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-278" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3431.25" y="5142.99" as="sourcePoint" />
-            <mxPoint x="3481.25" y="5092.99" as="targetPoint" />
+            <mxPoint x="3432.25" y="4630" as="sourcePoint" />
+            <mxPoint x="3482.25" y="4580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-283" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-282" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-280" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="통신이 가능한 경우" vertex="1">
-          <mxGeometry height="80" width="171.25" x="3490" y="4962.99" as="geometry" />
+          <mxGeometry height="80" width="171.25" x="3491" y="4450" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-285" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-284" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-282" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="전력 공급 단계일 경우" vertex="1">
-          <mxGeometry height="80" width="171.25" x="3490" y="5103.99" as="geometry" />
+          <mxGeometry height="80" width="171.25" x="3491" y="4591" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-287" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-286" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-284" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="Motor 전압(Vmot) ADC&lt;br&gt;측정" vertex="1">
-          <mxGeometry height="60" width="155.63" x="3497.81" y="5253.99" as="geometry" />
+          <mxGeometry height="60" width="155.63" x="3498.81" y="4741" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-289" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-288" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-286" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="Motor 전압(Vmot) ADC&lt;br&gt;측정" vertex="1">
-          <mxGeometry height="60" width="155.63" x="3497.81" y="5393.99" as="geometry" />
+          <mxGeometry height="60" width="155.63" x="3498.81" y="4881" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-291" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-290" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-288" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="오차 값 계산&lt;br&gt;오차 값 = (설정한 Motor Voltage - Vmot) / 32&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="303.44" x="3423.9" y="5532.99" as="geometry" />
+          <mxGeometry height="60" width="303.44" x="3424.9" y="5020" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-295" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-294" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-290" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="Tx에 요청할 Power 계산&lt;br&gt;kiLoadPowerLevel = kiLoadPowerLevel + 오차 값&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="303.44" x="3423.9" y="5672.99" as="geometry" />
+          <mxGeometry height="60" width="303.44" x="3424.9" y="5160" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-292" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="3581.25" y="5053.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="3582.25" y="4541" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-293" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="3581.25" y="5203.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="3582.25" y="4691" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-297" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-296" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1025,50 +1025,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-294" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="요청할 Power가 MIN_POWER&lt;br&gt;보다 작을 경우&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="250" x="3451.25" y="5802.99" as="geometry" />
+          <mxGeometry height="80" width="250" x="3452.25" y="5290" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-307" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-304">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4011.25" y="5842.99" />
-              <mxPoint x="4011.25" y="6082.99" />
-              <mxPoint x="3576.25" y="6082.99" />
+              <mxPoint x="4012.25" y="5330" />
+              <mxPoint x="4012.25" y="5570" />
+              <mxPoint x="3577.25" y="5570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-296" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="kiLoadPowerLevel =&lt;br&gt;Min_Power (= 50)" vertex="1">
-          <mxGeometry height="60" width="120" x="3846.25" y="5812.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="3847.25" y="5300" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-298" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="3727.34" y="5812.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="3728.34" y="5300" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-305" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-304" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-299" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="요청할 Power가 MAX_POWER&lt;br&gt;보다 클 경우&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="250" x="3451.25" y="5962.99" as="geometry" />
+          <mxGeometry height="80" width="250" x="3452.25" y="5450" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-301" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-302" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3701.25" y="6002.99" as="sourcePoint" />
+            <mxPoint x="3702.25" y="5490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-306" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-304">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3906.25" y="6082.99" />
-              <mxPoint x="3576.25" y="6082.99" />
+              <mxPoint x="3907.25" y="5570" />
+              <mxPoint x="3577.25" y="5570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-302" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="kiLoadPowerLevel =&lt;br&gt;MAX_Power (= 500)" vertex="1">
-          <mxGeometry height="60" width="120" x="3846.25" y="5972.99" as="geometry" />
+          <mxGeometry height="60" width="120" x="3847.25" y="5460" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-303" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="3727.34" y="5972.99" as="geometry" />
+          <mxGeometry height="30" width="60" x="3728.34" y="5460" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-304" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;" value="Send&amp;nbsp; KiLoadPowerLevel" vertex="1">
-          <mxGeometry height="60" width="165" x="3493.75" y="6132.99" as="geometry" />
+          <mxGeometry height="60" width="165" x="3494.75" y="5620" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-317" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;STATE_START&lt;/h1&gt;&lt;p&gt;- 역할: 시스템 부팅 또는 에러 발생 시 돌아오는 기본 State&lt;br&gt;&lt;br&gt;- 동작: 전력 전송 요청을 받지 않으며 Tx와 연결될 때까지 대기&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="230" x="1457" y="550" as="geometry" />
@@ -1085,7 +1085,7 @@
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-324" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-318" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-323" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="전력 Level = 2000&lt;div&gt;kiGotoConnected = true;&lt;/div&gt;" vertex="1">
+        <mxCell id="pt-Sz0ywJidHzhxRxOdD-323" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Power Level = 2000&lt;div&gt;kiGotoConnected = true;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="2077" y="289.38" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-325" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-318" value="">
@@ -1103,32 +1103,32 @@
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-330" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="153" width="230" x="1470" y="1307" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-331" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;PRE_CONNECTED&lt;/h1&gt;&lt;p&gt;- 역할: 동작 전에 Connect 가능한지 확인하는 단계&lt;br&gt;&lt;br&gt;- 동작: 다이얼 위치 확인, Button Push 여부 확인, NFC 구동 전압 확인, Blender 여부 확인&lt;/p&gt;" vertex="1">
+        <mxCell id="pt-Sz0ywJidHzhxRxOdD-331" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;PRE_CONNECTED&lt;/h1&gt;&lt;p&gt;- 역할: 동작 전에 Connect 가능한지 확인하는 단계&lt;br&gt;&lt;br&gt;- 동작: Button Push 여부 확인, NFC 구동 전압 확인&lt;/p&gt;" vertex="1">
           <mxGeometry height="153" width="230" x="1470" y="1307" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-332" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="153" width="260" x="1457" y="2217.5" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-333" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;STATE_CONNECTED&lt;/h1&gt;&lt;p&gt;- 역할: 전력 연결 및 모터 미동작 상태&lt;br&gt;&lt;br&gt;- 동작: BLUE LED가 일정 주기(80ms)마다 점점 밝아지며 Tx Status나 버튼 또는 다이얼의 입력에 따라 부저음 발생으로 추정&lt;/p&gt;" vertex="1">
+        <mxCell id="pt-Sz0ywJidHzhxRxOdD-333" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;STATE_CONNECTED&lt;/h1&gt;&lt;p&gt;- 역할: 전력 연결 및 모터 미동작 상태&lt;br&gt;&lt;br&gt;- 동작: BLUE LED가 일정 주기(80ms)마다 점점 밝아지며 사용자가 button을 누른 경우 다음 STATE로 진행&lt;/p&gt;" vertex="1">
           <mxGeometry height="153" width="260" x="1457" y="2217.5" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-334" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="153" width="260" x="1457" y="2870" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-335" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;PRE_ON_VIPER&lt;/h1&gt;&lt;p&gt;- 역할: 전력 전송을 위한 준비 단계&lt;br&gt;&lt;br&gt;- 동작: 전력 전송을 위한 회로 reset 및 Base Motor Voltage&amp;nbsp; 설정&amp;nbsp;&lt;/p&gt;" vertex="1">
+        <mxCell id="pt-Sz0ywJidHzhxRxOdD-335" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;PRE_ON_VIPER&lt;/h1&gt;&lt;p&gt;- 역할: 전력 전송을 위한 준비 단계&lt;br&gt;&lt;br&gt;- 동작: 전력 전송을 위한 회로 reset&lt;/p&gt;" vertex="1">
           <mxGeometry height="153" width="260" x="1457" y="2870" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-336" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="153" width="260" x="1466" y="4745.21" as="geometry" />
+          <mxGeometry height="153" width="260" x="1463" y="4221" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-337" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;STATE_POWER&lt;/h1&gt;&lt;p&gt;- 역할: Mode에 Motor 제어 단계&lt;br&gt;&lt;br&gt;- 동작: Bread, Cream, Ice, Dial 위치에 따라 모터 세기(Motor Voltage) 변경&lt;/p&gt;" vertex="1">
-          <mxGeometry height="153" width="260" x="1466" y="4745.21" as="geometry" />
+          <mxGeometry height="153" width="260" x="1466" y="4229" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-339" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="153" width="260" x="3446.25" y="4607.49" as="geometry" />
+          <mxGeometry height="153" width="260" x="3447.25" y="4094.5" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-340" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;KiADC_DoneCB&lt;/h1&gt;&lt;p&gt;- 역할: 사용자가 설정한 Power가 유지되도록 제어&lt;br&gt;&lt;br&gt;- 동작: Motor 동작 중 Motor에 걸리는 전압과 목표 전압의 오차를 계산하여 보정 값 산출&lt;br&gt;Tx에 보정 값 Send&lt;/p&gt;" vertex="1">
-          <mxGeometry height="153" width="260" x="3446.25" y="4607.49" as="geometry" />
+          <mxGeometry height="153" width="260" x="3447.25" y="4094.5" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-344" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="150" width="390" x="-2110" y="977" as="geometry" />
@@ -2680,12 +2680,12 @@
         </mxCell>
         <mxCell id="ZqIOwxAne52o_ZQxcWtt-47" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1279" y="6265.99" as="sourcePoint" />
-            <mxPoint x="3759" y="6265.99" as="targetPoint" />
+            <mxPoint x="1280" y="5753" as="sourcePoint" />
+            <mxPoint x="3760" y="5753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZqIOwxAne52o_ZQxcWtt-48" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Power&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="200.25" x="3549" y="6217.42" as="geometry" />
+          <mxGeometry height="30" width="200.25" x="3550" y="5704.43" as="geometry" />
         </mxCell>
         <mxCell id="_XErxnu9NRveY6o1G7Qw-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="buttonspressed&lt;div&gt;= kiAppProcessUI()&lt;/div&gt;&lt;div&gt;: 사용자 버튼(Kettle On) 눌린상태 저장&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="139" x="1361.5" y="180" as="geometry" />
@@ -2912,16 +2912,16 @@
         <mxCell id="_XErxnu9NRveY6o1G7Qw-71" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="PRE_ON" vertex="1">
           <mxGeometry height="40" width="120" x="1371" y="3258.5" as="geometry" />
         </mxCell>
-        <mxCell id="_XErxnu9NRveY6o1G7Qw-72" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_XErxnu9NRveY6o1G7Qw-71" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-72" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_XErxnu9NRveY6o1G7Qw-71" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2366" y="3169" as="sourcePoint" />
-            <mxPoint x="1778" y="3288.5" as="targetPoint" />
+            <mxPoint x="1820" y="3279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_XErxnu9NRveY6o1G7Qw-73" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="153" width="260" x="1457" y="3327" as="geometry" />
         </mxCell>
-        <mxCell id="_XErxnu9NRveY6o1G7Qw-74" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;PRE_ON&lt;/h1&gt;&lt;p&gt;- 역할: Mode에 Motor 제어 단계&lt;br&gt;&lt;br&gt;- 동작: Bread, Cream, Ice, Dial 위치에 따라 모터 세기(Motor Voltage) 변경&lt;/p&gt;" vertex="1">
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-74" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;PRE_ON&lt;/h1&gt;&lt;p&gt;- 역할: Power 진입 전 요청전력설정, state 설정&lt;br&gt;&lt;br&gt;- 동작: VIPER RESET 플래그 해제, GotoPower 플래그 설정, 전력 수준 설정&lt;/p&gt;" vertex="1">
           <mxGeometry height="153" width="260" x="1457" y="3327" as="geometry" />
         </mxCell>
         <mxCell id="_XErxnu9NRveY6o1G7Qw-76" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_XErxnu9NRveY6o1G7Qw-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="xzqBVJa93XsYaddzQMrF-46" value="">
@@ -2929,6 +2929,30 @@
             <mxPoint x="1430.23" y="3520" as="sourcePoint" />
             <mxPoint x="1430.23" y="4160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-79" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Timer 만료되었는가?" vertex="1">
+          <mxGeometry height="80" width="230" x="1817" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-80" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="VIPER_RESET 해제&lt;div&gt;Power Level = 2000&amp;nbsp;&lt;/div&gt;&lt;div&gt;kiGotoPower = true&lt;/div&gt;&lt;div&gt;appState&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;= STATE_POWER&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="200.5" x="2149.5" y="3236" as="geometry" />
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-81" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="YES" vertex="1">
+          <mxGeometry height="30" width="60" x="2062" y="3249.02" as="geometry" />
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-82" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.975;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2043" y="3280.28" as="sourcePoint" />
+            <mxPoint x="2150" y="3280.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-83" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1214" y="3557.9999999999995" as="sourcePoint" />
+            <mxPoint x="3694" y="3557.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-84" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Pre_on&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200.25" x="3485" y="3510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
