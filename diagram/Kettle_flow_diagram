@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="페이지-1" id="7SejB-Dkshlz0NOR675Q">
-    <mxGraphModel dx="4409" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5759" dy="2925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -109,14 +109,8 @@
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-13" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="150" x="2727" y="1692" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="2716" y="564.0699999999999" as="geometry" />
-        </mxCell>
         <mxCell id="xzqBVJa93XsYaddzQMrF-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="109" x="2717" y="2879" as="geometry" />
-        </mxCell>
-        <mxCell id="6cg_FnrpsfjEuqZqGAfd-54" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="45.5" width="290" x="2477" y="967" as="geometry" />
         </mxCell>
         <mxCell id="6cg_FnrpsfjEuqZqGAfd-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -155,8 +149,8 @@
         <mxCell id="EbvtUNlB44dUi4_TW84F-29" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6cg_FnrpsfjEuqZqGAfd-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6cg_FnrpsfjEuqZqGAfd-47" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="Mode 선택버튼이 눌려져있지 않고 SW_IN_HZ (PA9) 눌려져 있는 경우&amp;nbsp;&lt;br&gt;다이얼 로그가 Start 지점 보다 낮은 경우&lt;br&gt;NFC 구동 전압(V_Harv)이 기준치(약 3.0V) 보다 높을 경우" vertex="1">
-          <mxGeometry height="110" width="570" x="1877" y="1037" as="geometry" />
+        <mxCell id="6cg_FnrpsfjEuqZqGAfd-47" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" value="!buttonspressed&lt;div&gt;(사용자 전원이 안눌린 경우)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="67" width="213" x="2055" y="1092" as="geometry" />
         </mxCell>
         <mxCell id="6cg_FnrpsfjEuqZqGAfd-50" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-36" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="6cg_FnrpsfjEuqZqGAfd-51" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -166,18 +160,6 @@
         </mxCell>
         <mxCell id="6cg_FnrpsfjEuqZqGAfd-51" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="1000" width="20" x="1767" y="910" as="geometry" />
-        </mxCell>
-        <mxCell id="6cg_FnrpsfjEuqZqGAfd-52" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-47" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.73;exitY=0.245;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="6cg_FnrpsfjEuqZqGAfd-53" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="2357" y="987" />
-            </Array>
-            <mxPoint x="2267" y="957.5" as="sourcePoint" />
-            <mxPoint x="2317" y="917.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6cg_FnrpsfjEuqZqGAfd-53" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="다이얼 로그 Start 지점이 확인 필요" vertex="1">
-          <mxGeometry height="45" width="290" x="2477" y="967" as="geometry" />
         </mxCell>
         <mxCell id="6cg_FnrpsfjEuqZqGAfd-60" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6cg_FnrpsfjEuqZqGAfd-62" value="">
           <mxGeometry relative="1" as="geometry">
@@ -235,7 +217,7 @@
         <mxCell id="6cg_FnrpsfjEuqZqGAfd-80" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6cg_FnrpsfjEuqZqGAfd-47" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6cg_FnrpsfjEuqZqGAfd-79" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" value="Red_LED(PC6) OFF" vertex="1">
+        <mxCell id="6cg_FnrpsfjEuqZqGAfd-79" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" value="RED PWM OFF" vertex="1">
           <mxGeometry height="60" width="120" x="2102" y="910" as="geometry" />
         </mxCell>
         <mxCell id="6cg_FnrpsfjEuqZqGAfd-85" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6cg_FnrpsfjEuqZqGAfd-83" value="">
@@ -707,11 +689,11 @@
         <mxCell id="EbvtUNlB44dUi4_TW84F-3" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbvtUNlB44dUi4_TW84F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EbvtUNlB44dUi4_TW84F-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EbvtUNlB44dUi4_TW84F-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" value="BLUE LED OFF&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BUZZER OFF&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Button LED1 (PD1) OFF&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Button LED2 (PD0) OFF&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Button LED3 (PA15) OFF&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Knob(다이얼) LED4 (PD2) OFF" vertex="1">
-          <mxGeometry height="108.75" width="215" x="2383" y="540" as="geometry" />
+        <mxCell id="EbvtUNlB44dUi4_TW84F-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" value="BLUE PWM OFF&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BUZZER OFF" vertex="1">
+          <mxGeometry height="48.75" width="137" x="2387" y="570.01" as="geometry" />
         </mxCell>
         <mxCell id="EbvtUNlB44dUi4_TW84F-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" value="appState = PRE_CONNECTED" vertex="1">
-          <mxGeometry height="60" width="216" x="2383" y="740" as="geometry" />
+          <mxGeometry height="60" width="216" x="2348" y="730.62" as="geometry" />
         </mxCell>
         <mxCell id="EbvtUNlB44dUi4_TW84F-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="410" width="20" x="1767" y="400" as="geometry" />
@@ -764,15 +746,6 @@
         </mxCell>
         <mxCell id="EbvtUNlB44dUi4_TW84F-31" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="NO" vertex="1">
           <mxGeometry height="30" width="60" x="2164" y="1210" as="geometry" />
-        </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-0" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbvtUNlB44dUi4_TW84F-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-1" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2614.75" y="591" as="sourcePoint" />
-            <mxPoint x="2706" y="594" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="LED1: Bread&lt;br&gt;LED2: Cream&lt;br&gt;LED3: Ice" vertex="1">
-          <mxGeometry height="59.38" width="120" x="2716" y="564.69" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-5" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6cg_FnrpsfjEuqZqGAfd-68" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1405,7 +1378,7 @@
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-324" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pt-Sz0ywJidHzhxRxOdD-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pt-Sz0ywJidHzhxRxOdD-318" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-323" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="전력 연결 상태 = True&lt;br&gt;전력 전송 상태 = False" vertex="1">
+        <mxCell id="pt-Sz0ywJidHzhxRxOdD-323" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="전력 Level = 2000&lt;div&gt;kiGotoConnected = true;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="2077" y="419.38" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-325" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pt-Sz0ywJidHzhxRxOdD-318" value="">
@@ -3009,6 +2982,9 @@
         </mxCell>
         <mxCell id="_XErxnu9NRveY6o1G7Qw-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="buttonspressed&lt;div&gt;= kiAppProcessUI()&lt;/div&gt;&lt;div&gt;: 사용자 버튼(Kettle On) 눌린상태 저장&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="139" x="1361.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_XErxnu9NRveY6o1G7Qw-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="kiGotoConnected&amp;nbsp;&lt;div&gt;: 다음 단계가 Connected임을 알려주는 값&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="2282" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
