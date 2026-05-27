@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="페이지-1" id="7SejB-Dkshlz0NOR675Q">
-    <mxGraphModel dx="4565" dy="2359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="2019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -740,8 +740,8 @@
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-336" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="153" width="260" x="1463" y="4221" as="geometry" />
         </mxCell>
-        <mxCell id="pt-Sz0ywJidHzhxRxOdD-337" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;STATE_POWER&lt;/h1&gt;&lt;p&gt;- 역할: Mode에 Motor 제어 단계&lt;br&gt;&lt;br&gt;- 동작:&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="153" width="260" x="1466" y="4229" as="geometry" />
+        <mxCell id="pt-Sz0ywJidHzhxRxOdD-337" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;STATE_POWER&lt;/h1&gt;&lt;p&gt;- 역할: 사용자버튼 눌림 여부 및 상태 Flag에 따라&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Power mode 진입여부 결정&lt;br&gt;&lt;br&gt;- 동작: 사용자버튼 확인, Timer 점검, control type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;에 따라 명령어 전송, Power State Flag 점검&lt;/p&gt;" vertex="1">
+          <mxGeometry height="153" width="274" x="1466" y="4229" as="geometry" />
         </mxCell>
         <mxCell id="pt-Sz0ywJidHzhxRxOdD-344" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="150" width="390" x="-2110" y="977" as="geometry" />
